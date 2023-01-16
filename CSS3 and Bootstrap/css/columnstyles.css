@@ -1,0 +1,11 @@
+.text_demoBlock {
+    padding-bottom:20px;
+    width:100%;
+    text-align:justify;
+    column-count: 3;
+    -moz-column-count: 3; /*Mozi..*/
+    -webkit-column-count: 3;
+    column-gap: 40px;
+    -moz-column-gap: 40px;
+    -webkit-column-gap: 40px;
+}
